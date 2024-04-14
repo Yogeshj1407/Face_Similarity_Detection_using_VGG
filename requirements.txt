@@ -5,6 +5,6 @@ numpy
 scikit-learn
 mtcnn
 tensorflow
-Keras==2.4.3
+Keras
 keras-vggface
 Keras-Applications
