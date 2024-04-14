@@ -1,3 +1,4 @@
+python==3.7.16
 streamlit
 Pillow
 opencv-python
