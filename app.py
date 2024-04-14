@@ -71,7 +71,7 @@ def recommend(feature_list,feature):
 
 st.title('Face similarity Detection using VGG')
 
-uploaded_img = st.file_uploader('Choose an Image')
+uploaded_img = st.file_uploader('Choose an Image :')
 
 
 
